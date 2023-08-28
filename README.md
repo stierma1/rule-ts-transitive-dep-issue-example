@@ -1,0 +1,1 @@
+# rule-ts-transitive-dep-issue-example
